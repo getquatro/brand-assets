@@ -1,2 +1,1 @@
-# brand-assets
-Brand assets
+This repository contains the brand assets.
